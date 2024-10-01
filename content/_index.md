@@ -33,6 +33,6 @@ Analysis of **fluid mechanics** and solution properties of functional inks
 
 
 ### News
-**09/2024** Our paper “Unraveling the Formation Process of an Organic Photovoltaic Active Layer during High-Speed Coating via a Synergistic Concentration-Temperature Gradient Control Strategy” was accepted by **Adv. Fun. Mater.**
+**09/2024** Our paper “Unraveling the Formation Process of an Organic Photovoltaic Active Layer during High-Speed Coating via a Synergistic Concentration-Temperature Gradient Control Strategy” was accepted by **Adv. Funct. Mater.**
 
 **07/2024** My latest work “A framework for understanding high throughput processibility of active layer in organic solar cell” was reported by Prof.Jie Min at **The 2nd World Materials Conference & Chinese Materials Conference 2024.**
