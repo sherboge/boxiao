@@ -10,9 +10,9 @@ draft = true
 
 ( * indicates correspondent author)
 
-1.**B. Xiao***, W. Wu, S. Wang, J. Wan, Y. Shao, R. Sun, J. Min, Adv. Fun. Mater. 2024. (Accepted)[[PDF]](/share/Afm.pdf)
+1.**B. Xiao***, W. Wu, S. Wang, J. Wan, Y. Shao, R. Sun, J. Min, Unraveling the Formation Process of an Organic Photovoltaic Active Layer during High-Speed Coating via a Synergistic Concentration-Temperature Gradient Control Strategy, Adv. Fun. Mater. 2024. (Accepted)[[PDF]](/share/Afm.pdf)
 
-2.S. Wang, L.-Y. Xu, **B. Xiao**†, M. Chen, M. Zhang, W. Gao, B. Xiao, A. K. Y. Jen, R. Yang, J. Min, R. Sun, Energy Environ. Sci. 2024, 17, 2610-2620.[[DOI]](https://doi.org/10.1007/s11426-023-1720-x)
+2.S. Wang, L.-Y. Xu, **B. Xiao**†, M. Chen, M. Zhang, W. Gao, B. Xiao, A. K. Y. Jen, R. Yang, J. Min, R. Sun,Designing dithieno-benzodithiophene-based small molecule donors for thickness-tolerant 和 large-scale polymer solar cells, Energy Environ. Sci. 2024, 17, 2610-2620.[[DOI]](DOI	https://doi.org/10.1039/D3EE04300B)
 
 3.X. Yang, Y. Shao, S. Wang, M. Chen, **B. Xiao**†, R. Sun, J. Min,Processability Considerations for Next-Generation Organic Photovoltaic Materials, Adv. Mater. 2023, 2307863.[[DOI]](https://doi.org/10.1002/adma.202307863)
 
