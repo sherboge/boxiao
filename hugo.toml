@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://boxiao.vercel.app/'
 languageCode = 'en-us'
 title = 'Bo Xiao'
 theme = 'typo'
