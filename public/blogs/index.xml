@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on BoXiao</title>
+    <link>//localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on BoXiao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2024 22:59:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>//localhost:1313/blogs/one/</link>
+      <pubDate>Sun, 29 Sep 2024 22:59:00 +0800</pubDate>
+      <guid>//localhost:1313/blogs/one/</guid>
+      <description>&lt;h1 id=&#34;forget-how-many-times-i-have-try-to-build-a-new-one&#34;&gt;Forget how many times I have try to build a new one&lt;/h1&gt;&#xA;&lt;p&gt;I do believe it!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>//localhost:1313/blogs/second/</link>
+      <pubDate>Sun, 29 Sep 2024 22:59:00 +0800</pubDate>
+      <guid>//localhost:1313/blogs/second/</guid>
+      <description>&lt;h1 id=&#34;forget-how-many-times-i-have-try-to-build-a-new-one&#34;&gt;Forget how many times I have try to build a new one&lt;/h1&gt;&#xA;&lt;p&gt;I do believe it!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

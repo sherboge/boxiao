@@ -1,0 +1,57 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Bo Xiao'
+theme = 'typo'
+
+
+
+# Lists parameters
+[params]
+# Home meta description
+description = "A minimal website developed by BoXiao."
+
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+homeIntroTitle = ''
+homeIntroContent = """
+
+"""
+
+singleDateFormat = '01 02 2001'
+
+#Collection to display on home
+#homeCollectionTitle = 'Posts'
+#homeCollection = 'posts'
+
+
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '01 02 2001'
+
+# Breadcrumbs
+breadcrumbs = true
+
+showFooter = true
+footerContent = """
+ Copyright © 2024 **Bo Xiao**
+"""
+
+
+
+# menu
+
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "Publication"
+url = "/Publication/"
+
+[[params.menu]]
+name = "Experience"
+url = "/Experience/"
+
